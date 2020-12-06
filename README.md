@@ -12,32 +12,30 @@ People are always on the go, we always want to be quick and fast in almost every
 <img src="./images/flow.png">
 
 ## User cases
-- Start converstation with the bot
-<br>
-<img src="./images/start_command.png">
+### - Start converstation with the bot
 Type "/start" to start
-<br>
+<img src="./images/start_command.png">
 
-- Navigate to "News By Category"
+
+### - Navigate to "News By Category"
 Navigate between two category panels with "Others" and "Back"
-<div>
+<br>
 <img src="./images/News_by_cat1.png">
 Panel 1 
-</div>
+
 
 <br>
-<div>
+
 <img src="./images/News_by_cat2.png">
 Panel 1
-</div>
 
-- Pick one category, for exmaple "world"
+### - Pick one category, for exmaple "world"
 
 <img src="./images/world.png">
 Calling NYT API for top 10 news under the category, display their titles and url links for the user to find out more
 
 
-- Select "Top 10 Read in the week"
+### - Select "Top 10 Read in the week"
 <img src="./images/topview.png">
 Calling NYT API to retrieve the top 10 most viewed articles, display their titles and links.
 There is also an input button for user to navigate back to "News By Category"
