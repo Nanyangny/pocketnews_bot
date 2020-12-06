@@ -1,4 +1,4 @@
-## Pocket News Telegram Bot
+## [Pocket News Telegram Bot] (https://t.me/jimmyny_bot)
 
 People are always on the go, we always want to be quick and fast in almost everything we do, including the way we consume the news. Pocket News Telegram Bot is therefore a handy tool for you to know about what are happening in the world. 
 
